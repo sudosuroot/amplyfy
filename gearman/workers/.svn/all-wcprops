@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/amplyfy/!svn/ver/1254/Callisto/gearman/workers
+END
+SendConversationNotifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/amplyfy/!svn/ver/1254/Callisto/gearman/workers/SendConversationNotifications.php
+END
+UpdateTimingsTableForCheckin.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/amplyfy/!svn/ver/1099/Callisto/gearman/workers/UpdateTimingsTableForCheckin.php
+END
+UpdateUserTableForCheckin.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/amplyfy/!svn/ver/1099/Callisto/gearman/workers/UpdateUserTableForCheckin.php
+END
+SendCheckinNotifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/amplyfy/!svn/ver/1153/Callisto/gearman/workers/SendCheckinNotifications.php
+END
+SendMessageNotifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/amplyfy/!svn/ver/1233/Callisto/gearman/workers/SendMessageNotifications.php
+END
